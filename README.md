@@ -3,7 +3,7 @@
 ### Git 사용법
 -초기 설정
 1. 개발을 진행할 local 위치에서 git clone하기<br>
-`git clone https://github.com/KSJ0128/-.git`
+`git clone https://github.com/KSJ0128/2022_Preference.git`
 <br>
 
 -개발 진행(branch 없는 경우)
